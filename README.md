@@ -17,3 +17,6 @@ one time and every component create will be based on the new configurations!</p>
 </p>
 <h3>Can I contribute?</h3>
 <p>PLEASE! fork the github repo, play with it mess around with the component and send a pull request with your code, the more the merrier!</p>
+
+
+GIOCHIAMOOOOOOOOOOOOOOO??
